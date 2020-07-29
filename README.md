@@ -1,6 +1,6 @@
 # Deep_Learning
 
-*Contains my assignments on Andrew Ng's Coursera "Deep Learning Specialization."
+* Contains my assignments on Andrew Ng's Coursera "Deep Learning Specialization."
 This course consists of five parts:
     * [***Neural Networks and Deep Learning***](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome)  
     * [***Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization***](https://www.coursera.org/learn/deep-neural-network/home/welcome) 
